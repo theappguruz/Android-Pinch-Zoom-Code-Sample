@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="imagezoom" level="project" />
+    <orderEntry type="module" module-name="buildConfig8" />
+    <orderEntry type="module" module-name="main11" />
+    <orderEntry type="module" module-name="r6" />
+    <orderEntry type="module" module-name="r10" />
+    <orderEntry type="module" module-name="r20" />
+    <orderEntry type="module" module-name="buildConfig7" />
+    <orderEntry type="module" module-name="buildConfig25" />
+  </component>
+</module>
